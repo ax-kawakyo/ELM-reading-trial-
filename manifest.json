@@ -1,0 +1,19 @@
+{
+  "sets": [
+    {
+      "name": "Lesson 4",
+      "s_file": "ELM1/L4/l4-s.tsv",
+      "t_file": "ELM1/L4/l4-w.tsv",
+      "g_file": "ELM1/L4/l4-i.tsv"
+    },
+    {
+      "name": "Unit -",
+      "s_file": "ELM1/L-/l--s.tsv",
+      "t_file": "ELM1/L-/l--w.tsv",
+      "g_file": "ELM1/L-/l--i.tsv"
+    }
+  ],
+  "single_files": [
+    "ELM1/l4-sentence.tsv"
+  ]
+}
